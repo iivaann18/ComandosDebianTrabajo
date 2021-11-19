@@ -1,0 +1,67 @@
+Comandos Debian(Linux)
+
+#comando pwd
+Para ver la ruta actual donde estas
+
+#comando cd
+Para cambiar directorio
+
+#comando ls
+Para ver la info de un directorio
+
+#comando cat
+Para listar el contenido de un archivo
+
+#comando cp
+Para copiar archivos de un directorio a otro
+
+#comando mv
+Para mover archivos
+
+#comando mkdir
+Para crear un directorio
+
+#comando rmdir
+Para remover directorio
+
+#comando rm
+Para eliminar directorios y el contenido de dentro
+
+#comando touch
+Para crear un fichero
+
+#comando locate
+Para localizar un archivo
+
+#comando find
+Similar a locate, solo que busca archivos y directorios
+
+#comando grep
+Para buscar en un texto extenso
+
+#comando sudo
+Para hacer comandos que requieran permisos
+
+#comando tar
+Para guardar archivos en un TarBall
+
+#comando chown
+Para pasar un archivo a otro usuario
+
+#comando kill
+Para matar un proceso
+
+#comando wget
+Para adquirir o descargar algo a traves de la web
+
+#comando ping
+Para ver la informacion acerca de la red
+
+#comando echo
+Para que la maquina responda a algo, por ejemplo echo hola, en la terminal saldria "hola"
+
+#comando userdel
+Para eliminar un usuario
+
+#comando history
+Para ver el historial de comandos
